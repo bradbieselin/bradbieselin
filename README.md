@@ -2,7 +2,7 @@
 
 ## Full Stack Software Engineer 
 
-I am a graduate of Flatiron School's Software Engineering Bootcamp, and hold a B.S. in Computer Science. My current focus is on React and Ruby on Rails, and I am currently learning Java.
+I am a graduate of Flatiron School's Software Engineering Bootcamp, and hold a B.S. in Computer Science. I have experience in React and Ruby on Rails, and I am currently learning Java.
 
 I decided to pursue web development when I was introduced to it by a friend. The freedom to show my creativity is a big pull to the developer world. I have experience with art and design, which I find especially useful when designing an aesthetically pleasing application.
 
