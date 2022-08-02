@@ -28,8 +28,3 @@ I decided to pursue web development when I was introduced to it by a friend. The
 
 <br></br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BradBieselin&theme=highcontrast&show_icons=true&count_private=true)
-
-### My LeetCode Stats:
-
-
-![](https://leetcard.jacoblin.cool/spukisan?theme=dark)
